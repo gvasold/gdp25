@@ -4,6 +4,8 @@ This repository contains Jupyter notebooks and example data for my
 course *Grundlagen der Programmierung* at Graz University. All notebooks are 
 in German.
 
+The number of notebooks will grow during the semester. So run `git pull` before each class.
+
 ## Usage
 
 To use the notebooks make sure you have these programs installed:
